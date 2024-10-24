@@ -1,4 +1,4 @@
-name: Modelops deploy
+name: ML heart-model
 on:
   push:
     branches: [ main ]
